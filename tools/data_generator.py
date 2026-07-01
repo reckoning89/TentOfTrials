@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# LEGACY: file contains legacy references
 """
 Legacy test data generator for development and testing environments.
 Generates realistic-looking market data, orders, trades, and user data

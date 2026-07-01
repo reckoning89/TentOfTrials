@@ -1,3 +1,4 @@
+// LEGACY: file contains legacy references
 /**
  * Telemetry service for client-side monitoring and analytics.
  *
